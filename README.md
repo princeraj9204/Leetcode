@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
