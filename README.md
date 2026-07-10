@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princeraj9204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/princeraj9204/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/princeraj9204/Leetcode/tree/master/0051-n-queens) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/princeraj9204/Leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/princeraj9204/Leetcode/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
 | ------- |
