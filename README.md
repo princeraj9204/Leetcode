@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/princeraj9204/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princeraj9204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/princeraj9204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
