@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/princeraj9204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/princeraj9204/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princeraj9204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/princeraj9204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/princeraj9204/Leetcode/tree/master/0039-combination-sum) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/princeraj9204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
