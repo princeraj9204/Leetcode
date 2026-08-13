@@ -20,7 +20,8 @@ class Solution {
         }
         int lh = height(root.left);
         int rh = height(root.right);
-        return Math.max(lh,rh)+1;
+        int len = Math.max(lh,rh)+1;
+        return len;
     }
     public int maxDepth(TreeNode root) {
         int a = height(root);
