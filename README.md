@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princeraj9204/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
+| [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3895-count-digit-appearances](https://github.com/princeraj9204/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Counting
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/princeraj9204/Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/princeraj9204/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
+| [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/princeraj9204/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -240,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princeraj9204/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
