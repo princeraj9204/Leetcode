@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/princeraj9204/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princeraj9204/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2090-k-radius-subarray-averages](https://github.com/princeraj9204/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/princeraj9204/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/princeraj9204/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/princeraj9204/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2090-k-radius-subarray-averages](https://github.com/princeraj9204/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
