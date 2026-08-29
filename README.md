@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/princeraj9204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/princeraj9204/Leetcode/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/princeraj9204/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/princeraj9204/Leetcode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/princeraj9204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/princeraj9204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/princeraj9204/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princeraj9204/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
