@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/princeraj9204/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/princeraj9204/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/princeraj9204/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/princeraj9204/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/princeraj9204/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/princeraj9204/Leetcode/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/princeraj9204/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princeraj9204/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/princeraj9204/Leetcode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princeraj9204/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
