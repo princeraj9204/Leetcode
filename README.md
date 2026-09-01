@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princeraj9204/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -207,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/princeraj9204/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/princeraj9204/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/princeraj9204/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/princeraj9204/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/princeraj9204/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
