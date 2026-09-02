@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princeraj9204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princeraj9204/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/princeraj9204/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/princeraj9204/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/princeraj9204/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/princeraj9204/Leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/princeraj9204/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
