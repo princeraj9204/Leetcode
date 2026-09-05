@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/princeraj9204/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3895-count-digit-appearances](https://github.com/princeraj9204/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3904-smallest-stable-index-ii](https://github.com/princeraj9204/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/princeraj9204/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/princeraj9204/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/princeraj9204/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3904-smallest-stable-index-ii](https://github.com/princeraj9204/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
