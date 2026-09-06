@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/princeraj9204/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/princeraj9204/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/princeraj9204/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princeraj9204/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1991-find-the-middle-index-in-array](https://github.com/princeraj9204/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princeraj9204/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/princeraj9204/Leetcode/tree/master/2090-k-radius-subarray-averages) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Sorting
 |  |
 | ------- |
