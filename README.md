@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/princeraj9204/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/princeraj9204/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princeraj9204/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/princeraj9204/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/princeraj9204/Leetcode/tree/master/0443-string-compression) |
+| [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/princeraj9204/Leetcode/tree/master/0796-rotate-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/princeraj9204/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/princeraj9204/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
