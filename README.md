@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/princeraj9204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/princeraj9204/Leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/princeraj9204/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/princeraj9204/Leetcode/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/princeraj9204/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princeraj9204/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/princeraj9204/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/princeraj9204/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princeraj9204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/princeraj9204/Leetcode/tree/master/0242-valid-anagram) |
