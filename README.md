@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/princeraj9204/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/princeraj9204/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/princeraj9204/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/princeraj9204/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/princeraj9204/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/princeraj9204/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/princeraj9204/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/princeraj9204/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princeraj9204/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princeraj9204/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/princeraj9204/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/princeraj9204/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/princeraj9204/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/princeraj9204/Leetcode/tree/master/0242-valid-anagram) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/princeraj9204/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/princeraj9204/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/princeraj9204/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princeraj9204/Leetcode/tree/master/0217-contains-duplicate) |
