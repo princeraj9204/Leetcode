@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/princeraj9204/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princeraj9204/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
+| [0904-fruit-into-baskets](https://github.com/princeraj9204/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princeraj9204/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/princeraj9204/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/princeraj9204/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/princeraj9204/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/princeraj9204/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/princeraj9204/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/princeraj9204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/princeraj9204/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/princeraj9204/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/princeraj9204/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Interactive
