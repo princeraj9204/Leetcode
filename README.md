@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/princeraj9204/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/princeraj9204/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/princeraj9204/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/princeraj9204/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princeraj9204/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/princeraj9204/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/princeraj9204/Leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/princeraj9204/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princeraj9204/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/princeraj9204/Leetcode/tree/master/0134-gas-station) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/princeraj9204/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeraj9204/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/princeraj9204/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 ## Stack
