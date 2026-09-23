@@ -3,6 +3,12 @@ class Solution {
     long thr = 0;
 
     for (int i = 0; i < arr.length; i++) {
+
+        /* Here we find ceil function which is 1.2 = 2 , 8.01 = 9 round off to next nearest integer 
+
+        formula to find ceil function id : (arr[i] + speed - 1) / speed
+        */
+        
         thr += (arr[i] + (long)speed - 1) / speed;
     }
 
