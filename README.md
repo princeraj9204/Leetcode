@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/princeraj9204/Leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/princeraj9204/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/princeraj9204/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princeraj9204/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/princeraj9204/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/princeraj9204/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/princeraj9204/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/princeraj9204/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princeraj9204/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princeraj9204/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princeraj9204/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princeraj9204/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/princeraj9204/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/princeraj9204/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/princeraj9204/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/princeraj9204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/princeraj9204/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/princeraj9204/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princeraj9204/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/princeraj9204/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princeraj9204/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
