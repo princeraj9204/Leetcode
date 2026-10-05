@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princeraj9204/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princeraj9204/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/princeraj9204/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/princeraj9204/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/princeraj9204/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/princeraj9204/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/princeraj9204/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/princeraj9204/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## String
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/princeraj9204/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Sorting
 |  |
 | ------- |
