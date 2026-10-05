@@ -3,17 +3,17 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        int fr1[] = new int[26];
-        int fr2[] = new int[26];
-        for(int i=0;i<s.length();i++){
-            fr1[s.charAt(i)-'a']++;
-            fr2[t.charAt(i)-'a']++;            
-        }
-        for(int i=0;i<fr1.length;i++){
-            if(fr1[i] != fr2[i]){
-                return false;
-            }
-        }
+       HashMap<Character , Integer> map1 = new HashMap<>();
+       HashMap<Character , Integer> map2 = new HashMap<>();
+       for(int i=0;i<s.length();i++){
+        char c1 = s.charAt(i);
+        char c2 = t.charAt(i);
+        map1.put(c1 , map1.getOrDefault(c1 ,0)+1);
+        map2.put(c2 , map2.getOrDefault(c2 ,0)+1);
+       }
+       if(map1.equals(map2)){
         return true;
+       }
+       return false;
     }
 }
