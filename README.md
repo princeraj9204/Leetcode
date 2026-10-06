@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/princeraj9204/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0848-shifting-letters](https://github.com/princeraj9204/Leetcode/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/princeraj9204/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/princeraj9204/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/princeraj9204/Leetcode/tree/master/0567-permutation-in-string) |
 | [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/princeraj9204/Leetcode/tree/master/0796-rotate-string) |
+| [0848-shifting-letters](https://github.com/princeraj9204/Leetcode/tree/master/0848-shifting-letters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/princeraj9204/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/princeraj9204/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/princeraj9204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/princeraj9204/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/princeraj9204/Leetcode/tree/master/0848-shifting-letters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princeraj9204/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princeraj9204/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/princeraj9204/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
