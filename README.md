@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/princeraj9204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/princeraj9204/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/princeraj9204/Leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/princeraj9204/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/princeraj9204/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/princeraj9204/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/princeraj9204/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/princeraj9204/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/princeraj9204/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/princeraj9204/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/princeraj9204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/princeraj9204/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/princeraj9204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/princeraj9204/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/princeraj9204/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/princeraj9204/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/princeraj9204/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/princeraj9204/Leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/princeraj9204/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/princeraj9204/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/princeraj9204/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/princeraj9204/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/princeraj9204/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/princeraj9204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/princeraj9204/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/princeraj9204/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0791-custom-sort-string](https://github.com/princeraj9204/Leetcode/tree/master/0791-custom-sort-string) |
 | [0826-most-profit-assigning-work](https://github.com/princeraj9204/Leetcode/tree/master/0826-most-profit-assigning-work) |
