@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2540-minimum-common-value](https://github.com/princeraj9204/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/princeraj9204/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/princeraj9204/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/princeraj9204/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princeraj9204/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/princeraj9204/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/princeraj9204/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princeraj9204/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
