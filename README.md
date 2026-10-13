@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/princeraj9204/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/princeraj9204/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princeraj9204/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/princeraj9204/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3895-count-digit-appearances](https://github.com/princeraj9204/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/princeraj9204/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/princeraj9204/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/princeraj9204/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princeraj9204/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/princeraj9204/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
