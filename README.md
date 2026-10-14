@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/princeraj9204/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/princeraj9204/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princeraj9204/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princeraj9204/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princeraj9204/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princeraj9204/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/princeraj9204/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3895-count-digit-appearances](https://github.com/princeraj9204/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Heap (Priority Queue)
 |  |
