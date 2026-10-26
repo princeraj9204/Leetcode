@@ -1,44 +1,31 @@
-
-import java.util.Arrays;
-
 class Solution {
     public long maximizeSum(int[] nums, int k) {
-        int n = nums.length;
         long sum = 0;
-
-        long[] gains = new long[n];
-
-        for (int i = 0; i < n; i++) {
+        int n = nums.length;
+        long gain[] = new long[n];
+        for(int i=0;i<nums.length;i++){
             sum += nums[i];
 
-            int maxValue = findMax(nums[i]);
-            gains[i] = (long) maxValue - nums[i];
+            int maxvalue = findmax(nums[i]);
+            gain[i] = (long)maxvalue-nums[i];
         }
-
-        Arrays.sort(gains);
-
-        for (int i = n - 1; i >= 0 && k > 0; i--) {
-            if (gains[i] <= 0) {
+        Arrays.sort(gain);
+        for(int i=gain.length-1;i>=0 && k>0 ;i--){
+            if(gain[i] < 0){
                 break;
             }
-
-            sum += gains[i];
+            sum += gain[i];
             k--;
         }
-
         return sum;
     }
-
-    private int findMax(int num) {
-        char[] digits = String.valueOf(num).toCharArray();
-        Arrays.sort(digits);
-
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = digits.length - 1; i >= 0; i--) {
-            sb.append(digits[i]);
+    public static int findmax(int n){
+        char[] arr = String.valueOf(n).toCharArray();
+        Arrays.sort(arr);
+        StringBuilder sb =new StringBuilder();
+        for(int i=arr.length-1;i>=0;i--){
+            sb.append(arr[i]);
         }
-
         return Integer.parseInt(sb.toString());
     }
 }
