@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/princeraj9204/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princeraj9204/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princeraj9204/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/princeraj9204/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princeraj9204/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princeraj9204/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/princeraj9204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/princeraj9204/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/princeraj9204/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/princeraj9204/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/princeraj9204/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/princeraj9204/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeraj9204/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/princeraj9204/Leetcode/tree/master/0289-game-of-life) |
+| [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/princeraj9204/Leetcode/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/princeraj9204/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/princeraj9204/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/princeraj9204/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princeraj9204/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princeraj9204/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/princeraj9204/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -648,5 +653,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/princeraj9204/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
