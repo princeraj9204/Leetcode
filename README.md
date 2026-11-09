@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/princeraj9204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/princeraj9204/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/princeraj9204/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/princeraj9204/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/princeraj9204/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/princeraj9204/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/princeraj9204/Leetcode/tree/master/0118-pascals-triangle) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/princeraj9204/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/princeraj9204/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/princeraj9204/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/princeraj9204/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/princeraj9204/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/princeraj9204/Leetcode/tree/master/0242-valid-anagram) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/princeraj9204/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/princeraj9204/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/princeraj9204/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/princeraj9204/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/princeraj9204/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/princeraj9204/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/princeraj9204/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/princeraj9204/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/princeraj9204/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/princeraj9204/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/princeraj9204/Leetcode/tree/master/0289-game-of-life) |
 | [1267-count-servers-that-communicate](https://github.com/princeraj9204/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/princeraj9204/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/princeraj9204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/princeraj9204/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/princeraj9204/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
