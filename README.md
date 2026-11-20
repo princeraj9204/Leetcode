@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/princeraj9204/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/princeraj9204/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/princeraj9204/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/princeraj9204/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/princeraj9204/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/princeraj9204/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/princeraj9204/Leetcode/tree/master/0216-combination-sum-iii) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/princeraj9204/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/princeraj9204/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1903-largest-odd-number-in-string](https://github.com/princeraj9204/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/princeraj9204/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/princeraj9204/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/princeraj9204/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/princeraj9204/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/princeraj9204/Leetcode/tree/master/0739-daily-temperatures) |
 | [1006-clumsy-factorial](https://github.com/princeraj9204/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/princeraj9204/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
