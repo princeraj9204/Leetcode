@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/princeraj9204/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princeraj9204/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/princeraj9204/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/princeraj9204/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/princeraj9204/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/princeraj9204/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/princeraj9204/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
