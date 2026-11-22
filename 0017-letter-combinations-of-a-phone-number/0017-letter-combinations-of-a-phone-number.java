@@ -1,29 +1,19 @@
 class Solution {
+    static String[] key= {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     public List<String> letterCombinations(String digits) {
-        HashMap<Character , String> map = new HashMap<>();
-        map.put('2',"abc");
-        map.put('3',"def");
-        map.put('4',"ghi");
-        map.put('5',"jkl");
-        map.put('6',"mno");
-        map.put('7',"pqrs");
-        map.put('8',"tuv");
-        map.put('9',"wxyz");
         List<String> ans = new ArrayList<>();
-        print(digits,map,ans,"",0);
+        comb(digits,ans,"");
         return ans;
     }
-    public static void print(String digits ,HashMap<Character , String> map , List<String> ans , String str, int idx){
-        if(idx == digits.length()){
+    public static void comb(String digits,List<String> ans,String str){
+        if(digits.length() == 0){
             ans.add(str);
             return;
         }
-        char ch = digits.charAt(idx);
-        String letter = map.get(ch);
-
-        for(int i=0;i<letter.length();i++){
-            char chh = letter.charAt(i);
-            print(digits,map,ans , str+chh , idx+1);
+        char ch = digits.charAt(0);
+        String s = key[ch-'0'];
+        for(int i=0;i<s.length();i++){
+            comb(digits.substring(1),ans,str+s.charAt(i));
         }
     }
 }
